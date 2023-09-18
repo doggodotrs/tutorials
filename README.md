@@ -2,7 +2,7 @@
 
 This is the official repository for the [doggo dot rs](https://www.youtube.com/@doggodotrs) YouTube channel.
 
-* Series 01 (2023-09): Julia for Absolute Beginners
+* Series 01 (2023-09): Rust for Absolute Beginners
 ---
 ## Project Description
 
