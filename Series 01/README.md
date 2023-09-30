@@ -8,3 +8,5 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x04] How to Run a Rust executable (.exe) file on a different computer
 * [10x05] How to install VS Code onto my computer
 * [01x06] How use Rust in VS Code
+* [01x07] How to perform basic math in Rust
+* [01x08] How to use Booleans in Rust
