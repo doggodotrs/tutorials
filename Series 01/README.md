@@ -11,3 +11,5 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x07] How to perform basic math in Rust
 * [01x08] How to use Booleans in Rust
 * [01x09] How to use Variables in Rust
+* [01x10] How to use Different Types of Numbers in Rust
+* [01x11] How to use Characters, String Literals and Strings in Rust
