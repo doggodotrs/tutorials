@@ -13,3 +13,6 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x09] How to use Variables in Rust
 * [01x10] How to use Different Types of Numbers in Rust
 * [01x11] How to use Characters, String Literals and Strings in Rust
+* [01x12] How to use Arrays in Rust
+* [01x13] How to use Vectors in Rust
+* [01x14] How to use Tuples in Rust
