@@ -16,3 +16,5 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x12] How to use Arrays in Rust
 * [01x13] How to use Vectors in Rust
 * [01x14] How to use Tuples in Rust
+* [01x15] How to use a HashMap in Rust
+* [01x16] How to use a Struct in Rust
