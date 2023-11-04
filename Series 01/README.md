@@ -21,4 +21,3 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x17] How to use Control Flow in Rust: if Expression (if...else if...else)
 * [01x18] How to use Control Flow in Rust: While Loop
 * [01x19] How to use Control Flow in Rust: Infinite Loop
-* 
