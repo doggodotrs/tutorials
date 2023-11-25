@@ -25,3 +25,7 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x21] How to use Control Flow in Rust: For Loop over Collection
 * [01x22] How to use a Function in Rust
 * [01x23] How to use a Method in Rust 
+* [01x24] What does "Ownership" mean in Rust?
+* [01x25] What does "References and Borrowing" mean in Rust?
+* [01x26] How to use the Slice Type in Rust
+* 
