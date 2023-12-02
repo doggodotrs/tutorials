@@ -28,4 +28,5 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x24] What does "Ownership" mean in Rust?
 * [01x25] What does "References and Borrowing" mean in Rust?
 * [01x26] How to use the Slice Type in Rust
-
+* [01x27] How to use Cargo in Rust
+* [01x28] How to use the rust-analyzer Extension in VS Code
