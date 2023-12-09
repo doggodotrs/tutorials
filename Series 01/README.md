@@ -30,3 +30,6 @@ Repository for the [Series 01 | Rust for Absolute Beginners](https://www.youtube
 * [01x26] How to use the Slice Type in Rust
 * [01x27] How to use Cargo in Rust
 * [01x28] How to use the rust-analyzer Extension in VS Code
+* [01x29] How to update to the latest version of Rust
+* [01x30] Where to find help when using Rust
+* [01x31] Rust for Absolute Beginners series wrap up
